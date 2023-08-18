@@ -2,25 +2,25 @@
 
 This repository contains simple Python programs given as tasks for practicing python within the Embedded Linux diploma.
 
-## S1T1:
+## S1T1 Count Instances:
 
-This Python program
+This Python program counts how many times a certain number was found in a given list of numbers.
 
-## S1T2:
+## S1T2 Environment Variable:
 
-This Python program
+This Python program prints a specific environment variable which the user inquires about.
 
-## S1T3:
+## S1T3 Vowel Check:
 
-This Python program
+This Python program checks whether a given letter is a Vowel or not.
 
-## S1T4:
+## S1T4 Circle Area:
 
-This Python program
+This Python program computes and prints the area of a circle for a given radius.
 
-## S1T5:
+## S1T5 Calendar:
 
-This Python program
+This Python program prints the calendar for a given month in a given year.
 
 
 ## S2T1: Find Largest Number from a List
